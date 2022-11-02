@@ -1,4 +1,4 @@
-# practicas-estrcuturaydisenodeideas
+# 01 practica-strcuturaydisenodeideas (innovaaccion)
 
 Mi primera practica en cuestión de programación diseño de ideas y su estructura.
 
