@@ -1,3 +1,5 @@
+1ra Parte Innovaccion (FRONTEND)
+MODULO1 
 # 01 practica-strcuturaydisenodeideas (innovaaccion)
 
 Mi primera practica en tema de programación diseño de ideas y su estructura.
@@ -10,3 +12,7 @@ Publico Objetivo.
 Practiva UX
 
 Practica UI
+
+MODULO2
+#02 HTML
+ 
